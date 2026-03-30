@@ -1,0 +1,12 @@
+{
+	"name": "devops-node-express-app",
+	"version": "1.0.0",
+	"description": "Simple full-stack app with Node.js, Express, Docker, and Jenkins",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}
